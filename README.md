@@ -51,7 +51,7 @@ Using SVM (Support Vector Machines) to predicting cancer diagnosis
 # Result
 Using SVM (Support Vector Machines). The result is shown in the table below:
 
-Clicked: did not click: 0, clicked: 1
+Target: Benign: 0, Malignant: 1
 
 |	          |precision|recall|f1-score|support|
 |-----------|---------|------|--------|-------|
